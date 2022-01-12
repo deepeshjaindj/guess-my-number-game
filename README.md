@@ -9,7 +9,7 @@ You can even challenge your friends. Be the one who can guess my number quickest
 Loved the game?
 
 Follow me:
-GitHub: @deepshjaindj (https://github.com/deepeshjaindj) \n
+GitHub: @deepshjaindj (https://github.com/deepeshjaindj)
 Twitter: @deepeshjaindj2
 Instagram: @deepeshjaindj (Non Professional) - (https://www.instagram.com/deepeshjaindj/)
 LinkedIn: https://www.linkedin.com/in/deepesh-jain-dj-3579191a5
