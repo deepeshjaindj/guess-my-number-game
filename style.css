@@ -1,0 +1,120 @@
+body {
+  background-image: linear-gradient(to bottom right, #0e153a, #192965);
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+  color: #fff;
+  font-family: "Luckiest Guy", cursive;
+}
+
+.container-fluid {
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+/* Top Section- Play Again */
+.play-again {
+  background-color: #fff;
+  color: #0e153a;
+  border: none;
+}
+
+.play-again:hover {
+  background-color: #22d1ee;
+  color: #fff;
+  border: none;
+}
+
+.guess-a-number {
+  color: #f0efef;
+}
+
+/* Heading & Tagline */
+.guess-heading {
+  font-size: 4rem;
+}
+
+/* Question Mark Line */
+.question-mark-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.guess-line-front {
+  border-top: 10px solid #fff;
+  width: 100%;
+}
+
+.guess-line-end {
+  border-top: 10px solid #fff;
+  width: 100%;
+}
+
+.diamond-shape {
+  background-color: #fff;
+  height: 9rem;
+  width: 9rem;
+  text-align: center;
+  transform: rotate(45deg);
+}
+
+.diamond-shape .question-mark {
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: rotate(-45deg);
+  height: 9rem;
+  width: 9rem;
+}
+
+.question-mark {
+  color: #0e153a;
+}
+
+/* Input and Result Section */
+.guess-input {
+  background-color: transparent;
+  border: 4px outset #fff;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  font-size: 4rem;
+  width: 15rem;
+}
+
+.guess-input:focus {
+  outline: none !important;
+  border: 4px solid fff;
+}
+
+.check-button {
+  background-color: #fff;
+  border: none;
+  color: #0e153a;
+  font-size: 2rem !important;
+  padding: 1rem !important;
+  width: 10rem;
+}
+
+.check-button:hover {
+  background-color: #22d1ee;
+  color: #fff;
+  border: none;
+}
+
+.output-lines {
+  font-size: 1.7rem;
+}
+
+/* Footer */
+.developer-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.developer-link:hover {
+  color: gold;
+}
