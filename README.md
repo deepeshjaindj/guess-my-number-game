@@ -1,5 +1,7 @@
 # Guess My Number Game
 
+> Technologies used: JavaScript, HTML, CSS
+
 ### --RULES--
 - In this web game, the player gets 10 chances to guess my number which lies between 1-50. 
 - User can play the game multiple times without reloading and the best/highest score is recorded. 
